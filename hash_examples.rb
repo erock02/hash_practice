@@ -1,4 +1,4 @@
 my_hash = {
-  car: "audi"
+  car: "audi",
   animal: "dog"
 }
